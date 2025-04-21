@@ -1,2 +1,8 @@
-/Leiloesupdate/build/
-/Leiloesupdate/nbproject/private/
+# Adiciona isso no seu .gitignore:
+*.class
+*.form
+build/
+nbproject/private/
+
+
+
