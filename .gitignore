@@ -1,2 +1,6 @@
-/Leiloesupdate/build/
-/Leiloesupdate/nbproject/private/
+# Ignorar pastas de build do NetBeans
+/build/
+/nbproject/private/
+
+/*.class
+
